@@ -2,14 +2,13 @@ module Graphics.C3
   ( C3()
   , Options()
   , C3Type(..)
-  , DOM()
   , generate
   , options
   ) where
 
   import Control.Monad.Eff
+  import DOM
 
-  foreign import data DOM :: !
   foreign import data C3 :: *
 
   data C3Type = Bar

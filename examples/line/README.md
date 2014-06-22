@@ -11,8 +11,6 @@
       Line :: C3Type
       Pie :: C3Type
 
-    data DOM :: !
-
     type Options  = { c3Data :: [{ c3Type :: C3Type, name :: String, values :: [Number] }], bindto :: String }
 
 
