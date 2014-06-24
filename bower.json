@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "PureScript bindings for c3.",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "c3": "~0.2.4",
     "d3": "~3.4.8"
   }
