@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "c3": "~0.2.4",
-    "d3": "~3.4.8"
+    "d3": "~3.4.8",
+    "purescript-dom": "~0.1.0"
   }
 }
